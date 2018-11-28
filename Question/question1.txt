@@ -1,0 +1,5 @@
+
+
+Write a function in C named SumFun(), with arguments n and N, which returns the sum of the following series.
+
+1-(x^2/2)+(x^3/3)-(x^4/4)........+(x^n/N)
